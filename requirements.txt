@@ -1,0 +1,6 @@
+PyPDF2
+sentence-transformers
+chromadb
+fastapi
+uvicorn
+tqdm

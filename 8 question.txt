@@ -1,0 +1,495 @@
+Q1."What is machine safety?"
+
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.5056
+Source: safebk-rm002_-en-p.pdf (Page 17)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 16The “point of operation” is the area on a machine where work is actually performed  upon the material being processed. The point of operation of a machine, whose operation exposes an employee to injury, shall be guarded. The guardin...
+
+2. Score: 0.4986
+Source: EN_TechnicalguideNo10_REVF.pdf (Page 7)
+Text: PART 1 – THEORY AND BACKGROUND7 — Safety and functional safety The purpose of safety is to protect people and the environment from accidents  and risks caused by machines. Functional safety systems do this by lowering the  probability of undesired events, so that mishaps are minimized when operating...
+
+3. Score: 0.4351
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 1)        
+Text: Machine  Guarding  Protection for WorkersProtection for Workers Overview  Each piece of machinery has its own unique mechanical and non-mechanical hazards. Machines can cause a variety of injuries ranging from minor abrasions, burns or cuts to severe injuries such as fractures, laceraƟons, crushing ...
+
+4. Score: 0.4181
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 6)
+Text: Foreword Figure 1: Machine safety inspection Safe machines increase legal certainty for the manufacturer and user. Machine operators expect to be offered only s afe machinery or devices. This expectation exists worldwide. There are also regulations on the protection of operators of machinery worldwi...
+
+5. Score: 0.4142
+Source: safebk-rm002_-en-p.pdf (Page 111)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 110The intent of Control Reliability is clearly the performance of the safety function in  the presence of a fault. If the fault is detected, then the safety system must execute a safe action, provide noti ﬁ cation of the fault, and p...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.6141
+Source: EN_TechnicalguideNo10_REVF.pdf (Page 7)
+Text: PART 1 – THEORY AND BACKGROUND7 — Safety and functional safety The purpose of safety is to protect people and the environment from accidents  and risks caused by machines. Functional safety systems do this by lowering the  probability of undesired events, so that mishaps are minimized when operating...
+
+2. Score: 0.6136
+Source: safebk-rm002_-en-p.pdf (Page 17)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 16The “point of operation” is the area on a machine where work is actually performed  upon the material being processed. The point of operation of a machine, whose operation exposes an employee to injury, shall be guarded. The guardin...
+
+3. Score: 0.5528
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 6)
+Text: Foreword Figure 1: Machine safety inspection Safe machines increase legal certainty for the manufacturer and user. Machine operators expect to be offered only s afe machinery or devices. This expectation exists worldwide. There are also regulations on the protection of operators of machinery worldwi...
+
+4. Score: 0.5441
+Source: safebk-rm002_-en-p.pdf (Page 111)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 110The intent of Control Reliability is clearly the performance of the safety function in  the presence of a fault. If the fault is detected, then the safety system must execute a safe action, provide noti ﬁ cation of the fault, and p...
+
+5. Score: 0.5385
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 1)        
+Text: Machine  Guarding  Protection for WorkersProtection for Workers Overview  Each piece of machinery has its own unique mechanical and non-mechanical hazards. Machines can cause a variety of injuries ranging from minor abrasions, burns or cuts to severe injuries such as fractures, laceraƟons, crushing ...
+
+============================================================
+
+Q2. "What is functional safety in machinery?"
+
+
+1. Score: 0.6432
+Source: EN_TechnicalguideNo10_REVF.pdf (Page 2)
+Text: 2 TECHNICAL GUIDE NO. 10 FUNCTIONAL SAFETY —  Functional safety  Functional safety in machinery usually  means systems that safely monitor and,when necessary, take control of the machine applications to ensure safe operation. Functional safety systems are designed  to detect hazardous conditions or ...
+
+2. Score: 0.5421
+Source: safebk-rm002_-en-p.pdf (Page 63)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 62is used as a protective measure to help increase safety of personnel. PPE is not  considered functional safety. Functional safety was a term introduced in IEC 61508:1998. Since then, the term  has sometimes been associated only with...
+
+3. Score: 0.5388
+Source: EN_TechnicalguideNo10_REVF.pdf (Page 8)
+Text: 8 TECHNICAL GUIDE NO. 10 FUNCTIONAL SAFETY — Machinery Directive The Machinery Directive, with the harmonized standards listed thereunder, defines  the Essential Health and Safety Requirements (EHSR) for machinery at European  Union level. The EHSRs are listed in Annex I of the Machinery Directive. ...
+
+4. Score: 0.5247
+Source: safebk-rm002_-en-p.pdf (Page 17)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 16The “point of operation” is the area on a machine where work is actually performed  upon the material being processed. The point of operation of a machine, whose operation exposes an employee to injury, shall be guarded. The guardin...
+
+5. Score: 0.5140
+Source: Safety and functional safety, A general guide.pdf (Page 8)      
+Text: 8  Safety and functional safety  | ABB brochure 1SFC001008B0201Meeting Machinery Directive requirements The Machinery Directive 2006/42/EC  requires machinery to be safe. However, as zero risk can  never be achieved in practice, the key objective is to minimize risk. Compliance with this goal can be...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.7147
+Source: EN_TechnicalguideNo10_REVF.pdf (Page 2)
+Text: 2 TECHNICAL GUIDE NO. 10 FUNCTIONAL SAFETY —  Functional safety  Functional safety in machinery usually  means systems that safely monitor and,when necessary, take control of the machine applications to ensure safe operation. Functional safety systems are designed  to detect hazardous conditions or ...
+
+2. Score: 0.6526
+Source: safebk-rm002_-en-p.pdf (Page 63)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 62is used as a protective measure to help increase safety of personnel. PPE is not  considered functional safety. Functional safety was a term introduced in IEC 61508:1998. Since then, the term  has sometimes been associated only with...
+
+3. Score: 0.6478
+Source: EN_TechnicalguideNo10_REVF.pdf (Page 8)
+Text: 8 TECHNICAL GUIDE NO. 10 FUNCTIONAL SAFETY — Machinery Directive The Machinery Directive, with the harmonized standards listed thereunder, defines  the Essential Health and Safety Requirements (EHSR) for machinery at European  Union level. The EHSRs are listed in Annex I of the Machinery Directive. ...
+
+4. Score: 0.6346
+Source: safebk-rm002_-en-p.pdf (Page 17)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 16The “point of operation” is the area on a machine where work is actually performed  upon the material being processed. The point of operation of a machine, whose operation exposes an employee to injury, shall be guarded. The guardin...
+
+5. Score: 0.6344
+Source: Safety and functional safety, A general guide.pdf (Page 8)      
+Text: 8  Safety and functional safety  | ABB brochure 1SFC001008B0201Meeting Machinery Directive requirements The Machinery Directive 2006/42/EC  requires machinery to be safe. However, as zero risk can  never be achieved in practice, the key objective is to minimize risk. Compliance with this goal can be...
+============================================================
+
+Q3."List essential safety components in machinery."
+
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.5492
+Source: safebk-rm002_-en-p.pdf (Page 5)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 4Essential Health & Safety Requirements Annex 1 of the Directive gives a  list of Essential Health and Safety Requirements (referred to as EHSRs) to which machinery must comply where relevant. The purpose of this list is to ensure tha...
+
+2. Score: 0.5439
+Source: safebk-rm002_-en-p.pdf (Page 143)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 142Pre-engineered Safety Functions for machines Machinery safety functions require multiple elements including a sensor or input  device, a logic device, and an output device. Together, these elements provide a level of protection cal...
+
+3. Score: 0.4794
+Source: safebk-rm002_-en-p.pdf (Page 9)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 82. Full Quality Assurance. A Technical File must be prepared and the manufacturer must operate an approved quality system for design, manufacture, ﬁ nal inspection and testing. The quality system must ensure conformity of the machine...
+
+4. Score: 0.4759
+Source: safebk-rm002_-en-p.pdf (Page 23)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 22Chapter 3: Safety Strategy From a purely functional point of view the more ef ﬁ ciently a machine performs  its task of processing material then the better it is. But, in order for a machine to be viable it must also be safe. Indeed...
+
+5. Score: 0.4728
+Source: safebk-rm002_-en-p.pdf (Page 111)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 110The intent of Control Reliability is clearly the performance of the safety function in  the presence of a fault. If the fault is detected, then the safety system must execute a safe action, provide noti ﬁ cation of the fault, and p...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.6473
+Source: safebk-rm002_-en-p.pdf (Page 5)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 4Essential Health & Safety Requirements Annex 1 of the Directive gives a  list of Essential Health and Safety Requirements (referred to as EHSRs) to which machinery must comply where relevant. The purpose of this list is to ensure tha...
+
+2. Score: 0.6381
+Source: safebk-rm002_-en-p.pdf (Page 143)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 142Pre-engineered Safety Functions for machines Machinery safety functions require multiple elements including a sensor or input  device, a logic device, and an output device. Together, these elements provide a level of protection cal...
+
+3. Score: 0.5866
+Source: safebk-rm002_-en-p.pdf (Page 23)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 22Chapter 3: Safety Strategy From a purely functional point of view the more ef ﬁ ciently a machine performs  its task of processing material then the better it is. But, in order for a machine to be viable it must also be safe. Indeed...
+
+4. Score: 0.5855
+Source: safebk-rm002_-en-p.pdf (Page 111)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 110The intent of Control Reliability is clearly the performance of the safety function in  the presence of a fault. If the fault is detected, then the safety system must execute a safe action, provide noti ﬁ cation of the fault, and p...
+
+5. Score: 0.5841
+Source: safebk-rm002_-en-p.pdf (Page 9)
+Text: MACHINERY SAFEBOOK 5 Safety related control systems for machinery 82. Full Quality Assurance. A Technical File must be prepared and the manufacturer must operate an approved quality system for design, manufacture, ﬁ nal inspection and testing. The quality system must ensure conformity of the machine...
+
+============================================================
+
+Q4."How does the new EU regulation affect industrial machines?"
+
+
+Enter your question: How does the new EU regulation affect industrial machines?"
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.3402
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 8)
+Text: (53)  The harmonised standards relevant to this Regulation should take into account the requirements of Directive (EU)  2019/882 of the European Parliament and of the Council (  16 ) and the United Nations Convention on the Rights  of Persons with Disabilities (  17 ).  (54)  The list of products in...
+
+2. Score: 0.3066
+Source: oem-sp123_-en-p.pdf (Page 2)
+Text: As the “go to” document for machine builders,  the European machinery directive lays  out the minimum safety requirements for  machinery.  The last change to the directive was  on 29 December 2009, when 2006/42/EC was  introduced.  In 2020, as part of the commission work program ‘A Europe  fit for t...
+
+3. Score: 0.3029
+Source: tuev-rheinland-testing-of-industrial-machinery-flyer-2-en.pdf (Page 1)
+Text: www.tuv.com(including the corrigendum to the regulation EU 2023/1230  from 04.07.2023).Conformity with the new Machinery   Regulation EU 2023/1230 Since June 14, 2023, the new Machinery Regulation has been published and will replace the current  Machinery Directive 2006/42/EC in Europe. The Machiner...
+
+4. Score: 0.2901
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 12)
+Text: NOTE The dir ectives are freely available, e.g., at eur-lex.europa.eu . NOTE Europe an directives apply to manufacturers and organizations that place machinery on the market in the Euro‐ pean Union. The Machinery Directive Machinery Directive 2006/42/EC addresses the manufacturers and distributors o...
+
+5. Score: 0.2869
+Source: Machine-Safety-Brochure-Guide.pdf (Page 8)
+Text: 14 15Manufacturers’ responsibilities Manufacturers placing machines on the market within the European Economic Area must  comply with the requirements of the Machinery Directive. Note that “placing on the market” includes an organisation supplying a machine to itself, i.e. building or modifying mach...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.4986
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 8)
+Text: (53)  The harmonised standards relevant to this Regulation should take into account the requirements of Directive (EU)  2019/882 of the European Parliament and of the Council (  16 ) and the United Nations Convention on the Rights  of Persons with Disabilities (  17 ).  (54)  The list of products in...
+
+2. Score: 0.4838
+Source: oem-sp123_-en-p.pdf (Page 2)
+Text: As the “go to” document for machine builders,  the European machinery directive lays  out the minimum safety requirements for  machinery.  The last change to the directive was  on 29 December 2009, when 2006/42/EC was  introduced.  In 2020, as part of the commission work program ‘A Europe  fit for t...
+
+3. Score: 0.4799
+Source: tuev-rheinland-testing-of-industrial-machinery-flyer-2-en.pdf (Page 1)
+Text: www.tuv.com(including the corrigendum to the regulation EU 2023/1230  from 04.07.2023).Conformity with the new Machinery   Regulation EU 2023/1230 Since June 14, 2023, the new Machinery Regulation has been published and will replace the current  Machinery Directive 2006/42/EC in Europe. The Machiner...
+
+4. Score: 0.4610
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 12)
+Text: NOTE The dir ectives are freely available, e.g., at eur-lex.europa.eu . NOTE Europe an directives apply to manufacturers and organizations that place machinery on the market in the Euro‐ pean Union. The Machinery Directive Machinery Directive 2006/42/EC addresses the manufacturers and distributors o...
+
+5. Score: 0.4571
+Source: Machine-Safety-Brochure-Guide.pdf (Page 8)
+Text: 14 15Manufacturers’ responsibilities Manufacturers placing machines on the market within the European Economic Area must  comply with the requirements of the Machinery Directive. Note that “placing on the market” includes an organisation supplying a machine to itself, i.e. building or modifying mach...
+
+============================================================
+
+Q5."What are the requirements for CE marking?"
+
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.5007
+Source: eaton-safety-manual-pu05907001z-en-us.pdf (Page 111)
+Text: 109 12/22 PU05907001Z-ENAffix CE mark The manufacturer and the authorized agent in the EU (licensee/ contract partner) must declare the conformity of products with the  safety requirements of the relevant directives and EN standards. This is  documented by the issuing of an EU declaration of conform...
+
+2. Score: 0.2450
+Source: uk-mkg-practical-guide-en-GB-A4.pdf (Page 12)
+Text: 12Issues to consider when assessing machinery: Emergency Stops ■ Are they fitted  correctly? ■ Do they all work correctly? ■  Are they accessible? ■  Are they correct type?Electrical Enclosure ■  Is the enclosure  locked? ■  Are all enclosures fitted with electrical warning signs? ■  Are they free f...
+
+3. Score: 0.2124
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 98)
+Text: 5. CE marking and EU declaration of conformity   5.1. The manufacturer shall affix the required CE marking set out in Article 10(2) and, under the responsibility of the  notified body referred to in point 4, that body’s identification number, to the machinery or related product that  satisfies the a...
+
+4. Score: 0.1958
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 15)
+Text: Marking of the machine as conforming to the European directives (“CE conform”) Once all t he r equirements have been met and before the machine within the scope of the Machinery Directive is placed on the market, the CE marking shall be applied to the machine. NOTE The CE mar king can only be affixe...
+
+5. Score: 0.1877
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 96)
+Text: 5. CE marking and EU declaration of conformity   5.1. The manufacturer shall affix the required CE marking set out in this Regulation, and, under the responsibility of  the notified body referred to in point 3.1, the latter’s identification number to each individual product that satisfies  the appli...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.6268
+Source: eaton-safety-manual-pu05907001z-en-us.pdf (Page 111)
+Text: 109 12/22 PU05907001Z-ENAffix CE mark The manufacturer and the authorized agent in the EU (licensee/ contract partner) must declare the conformity of products with the  safety requirements of the relevant directives and EN standards. This is  documented by the issuing of an EU declaration of conform...
+
+2. Score: 0.4425
+Source: uk-mkg-practical-guide-en-GB-A4.pdf (Page 12)
+Text: 12Issues to consider when assessing machinery: Emergency Stops ■ Are they fitted  correctly? ■ Do they all work correctly? ■  Are they accessible? ■  Are they correct type?Electrical Enclosure ■  Is the enclosure  locked? ■  Are all enclosures fitted with electrical warning signs? ■  Are they free f...
+
+3. Score: 0.4199
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 98)
+Text: 5. CE marking and EU declaration of conformity   5.1. The manufacturer shall affix the required CE marking set out in Article 10(2) and, under the responsibility of the  notified body referred to in point 4, that body’s identification number, to the machinery or related product that  satisfies the a...
+
+4. Score: 0.4104
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 15)
+Text: Marking of the machine as conforming to the European directives (“CE conform”) Once all t he r equirements have been met and before the machine within the scope of the Machinery Directive is placed on the market, the CE marking shall be applied to the machine. NOTE The CE mar king can only be affixe...
+
+5. Score: 0.3998
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 96)
+Text: 5. CE marking and EU declaration of conformity   5.1. The manufacturer shall affix the required CE marking set out in this Regulation, and, under the responsibility of  the notified body referred to in point 3.1, the latter’s identification number to each individual product that satisfies  the appli...
+
+============================================================
+
+Q6."Give examples of machine guarding techniques."
+
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.4628
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 1)        
+Text: Machine  Guarding  Protection for WorkersProtection for Workers Overview  Each piece of machinery has its own unique mechanical and non-mechanical hazards. Machines can cause a variety of injuries ranging from minor abrasions, burns or cuts to severe injuries such as fractures, laceraƟons, crushing ...
+
+2. Score: 0.4547
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 2)        
+Text: Methods of Safegaurding  There are ﬁve (5) general types of  machine safeguards that can be used  to protect workers and personnel in the immediate vicinity of machinery.  1. Guards – these are physical barriers that prevent contact. They can be ﬁ  xed, interlocked, adjustable, or self-adjus Ɵng. 2....
+
+3. Score: 0.3920
+Source: osha3170.pdf (Page 18)
+Text: Figure 17 Power Press with a Gate Secondary Safeguarding Methods   Other safeguarding methods, such as those described in the Performance Criteria for Safeguarding (ANSI B11.19-2003), may also provide employees withsome protection from machine hazards. Detectionsafeguarding devices, awareness device...
+
+4. Score: 0.3234
+Source: oem-sp123_-en-p.pdf (Page 13)
+Text: PART A  Categories of machinery or related products to which a procedure referred to in   Article 25(2) shall be applied:  1. Removable mechanical transmission devices including their guards.  2. Guards for removable mechanical transmission devices.  3. Vehicle servicing lifts.  4. Portable cartridg...
+
+5. Score: 0.3172
+Source: oem-sp123_-en-p.pdf (Page 14)
+Text: BIBLIOGRAPHY  •  ANNEX II  •  INDICATIVE LIST OF SAFETY COMPONENTS 1. Guards for removable mechanical transmission devices.  2. Protective devices designed to detect the presence of persons.  3.  Power-operated interlocking movable guards designed to be used as safeguards in  machinery referred to i...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.5800
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 1)        
+Text: Machine  Guarding  Protection for WorkersProtection for Workers Overview  Each piece of machinery has its own unique mechanical and non-mechanical hazards. Machines can cause a variety of injuries ranging from minor abrasions, burns or cuts to severe injuries such as fractures, laceraƟons, crushing ...
+
+2. Score: 0.5780
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 2)        
+Text: Methods of Safegaurding  There are ﬁve (5) general types of  machine safeguards that can be used  to protect workers and personnel in the immediate vicinity of machinery.  1. Guards – these are physical barriers that prevent contact. They can be ﬁ  xed, interlocked, adjustable, or self-adjus Ɵng. 2....
+
+3. Score: 0.5288
+Source: osha3170.pdf (Page 18)
+Text: Figure 17 Power Press with a Gate Secondary Safeguarding Methods   Other safeguarding methods, such as those described in the Performance Criteria for Safeguarding (ANSI B11.19-2003), may also provide employees withsome protection from machine hazards. Detectionsafeguarding devices, awareness device...
+
+4. Score: 0.4598
+Source: oem-sp123_-en-p.pdf (Page 13)
+Text: PART A  Categories of machinery or related products to which a procedure referred to in   Article 25(2) shall be applied:  1. Removable mechanical transmission devices including their guards.  2. Guards for removable mechanical transmission devices.  3. Vehicle servicing lifts.  4. Portable cartridg...
+
+5. Score: 0.4527
+Source: oem-sp123_-en-p.pdf (Page 14)
+Text: BIBLIOGRAPHY  •  ANNEX II  •  INDICATIVE LIST OF SAFETY COMPONENTS 1. Guards for removable mechanical transmission devices.  2. Protective devices designed to detect the presence of persons.  3.  Power-operated interlocking movable guards designed to be used as safeguards in  machinery referred to i...
+
+============================================================
+
+Q7."How are risks assessed in machinery regulation?"
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.5007
+Source: eaton-safety-manual-pu05907001z-en-us.pdf (Page 111)
+Text: 109 12/22 PU05907001Z-ENAffix CE mark The manufacturer and the authorized agent in the EU (licensee/ contract partner) must declare the conformity of products with the  safety requirements of the relevant directives and EN standards. This is  documented by the issuing of an EU declaration of conform...
+
+2. Score: 0.2450
+Source: uk-mkg-practical-guide-en-GB-A4.pdf (Page 12)
+Text: 12Issues to consider when assessing machinery: Emergency Stops ■ Are they fitted  correctly? ■ Do they all work correctly? ■  Are they accessible? ■  Are they correct type?Electrical Enclosure ■  Is the enclosure  locked? ■  Are all enclosures fitted with electrical warning signs? ■  Are they free f...
+
+3. Score: 0.2124
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 98)
+Text: 5. CE marking and EU declaration of conformity   5.1. The manufacturer shall affix the required CE marking set out in Article 10(2) and, under the responsibility of the  notified body referred to in point 4, that body’s identification number, to the machinery or related product that  satisfies the a...
+
+4. Score: 0.1958
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 15)
+Text: Marking of the machine as conforming to the European directives (“CE conform”) Once all t he r equirements have been met and before the machine within the scope of the Machinery Directive is placed on the market, the CE marking shall be applied to the machine. NOTE The CE mar king can only be affixe...
+
+5. Score: 0.1877
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 96)
+Text: 5. CE marking and EU declaration of conformity   5.1. The manufacturer shall affix the required CE marking set out in this Regulation, and, under the responsibility of  the notified body referred to in point 3.1, the latter’s identification number to each individual product that satisfies  the appli...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.6268
+Source: eaton-safety-manual-pu05907001z-en-us.pdf (Page 111)
+Text: 109 12/22 PU05907001Z-ENAffix CE mark The manufacturer and the authorized agent in the EU (licensee/ contract partner) must declare the conformity of products with the  safety requirements of the relevant directives and EN standards. This is  documented by the issuing of an EU declaration of conform...
+
+2. Score: 0.4425
+Source: uk-mkg-practical-guide-en-GB-A4.pdf (Page 12)
+Text: 12Issues to consider when assessing machinery: Emergency Stops ■ Are they fitted  correctly? ■ Do they all work correctly? ■  Are they accessible? ■  Are they correct type?Electrical Enclosure ■  Is the enclosure  locked? ■  Are all enclosures fitted with electrical warning signs? ■  Are they free f...
+
+3. Score: 0.4199
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 98)
+Text: 5. CE marking and EU declaration of conformity   5.1. The manufacturer shall affix the required CE marking set out in Article 10(2) and, under the responsibility of the  notified body referred to in point 4, that body’s identification number, to the machinery or related product that  satisfies the a...
+
+4. Score: 0.4104
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 15)
+Text: Marking of the machine as conforming to the European directives (“CE conform”) Once all t he r equirements have been met and before the machine within the scope of the Machinery Directive is placed on the market, the CE marking shall be applied to the machine. NOTE The CE mar king can only be affixe...
+
+5. Score: 0.3998
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 96)
+Text: 5. CE marking and EU declaration of conformity   5.1. The manufacturer shall affix the required CE marking set out in this Regulation, and, under the responsibility of  the notified body referred to in point 3.1, the latter’s identification number to each individual product that satisfies  the appli...
+
+============================================================
+
+Enter your question: Give examples of machine guarding techniques.
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.4628
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 1)        
+Text: Machine  Guarding  Protection for WorkersProtection for Workers Overview  Each piece of machinery has its own unique mechanical and non-mechanical hazards. Machines can cause a variety of injuries ranging from minor abrasions, burns or cuts to severe injuries such as fractures, laceraƟons, crushing ...
+
+2. Score: 0.4547
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 2)        
+Text: Methods of Safegaurding  There are ﬁve (5) general types of  machine safeguards that can be used  to protect workers and personnel in the immediate vicinity of machinery.  1. Guards – these are physical barriers that prevent contact. They can be ﬁ  xed, interlocked, adjustable, or self-adjus Ɵng. 2....
+
+3. Score: 0.3920
+Source: osha3170.pdf (Page 18)
+Text: Figure 17 Power Press with a Gate Secondary Safeguarding Methods   Other safeguarding methods, such as those described in the Performance Criteria for Safeguarding (ANSI B11.19-2003), may also provide employees withsome protection from machine hazards. Detectionsafeguarding devices, awareness device...
+
+4. Score: 0.3234
+Source: oem-sp123_-en-p.pdf (Page 13)
+Text: PART A  Categories of machinery or related products to which a procedure referred to in   Article 25(2) shall be applied:  1. Removable mechanical transmission devices including their guards.  2. Guards for removable mechanical transmission devices.  3. Vehicle servicing lifts.  4. Portable cartridg...
+
+5. Score: 0.3172
+Source: oem-sp123_-en-p.pdf (Page 14)
+Text: BIBLIOGRAPHY  •  ANNEX II  •  INDICATIVE LIST OF SAFETY COMPONENTS 1. Guards for removable mechanical transmission devices.  2. Protective devices designed to detect the presence of persons.  3.  Power-operated interlocking movable guards designed to be used as safeguards in  machinery referred to i...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.5800
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 1)        
+Text: Machine  Guarding  Protection for WorkersProtection for Workers Overview  Each piece of machinery has its own unique mechanical and non-mechanical hazards. Machines can cause a variety of injuries ranging from minor abrasions, burns or cuts to severe injuries such as fractures, laceraƟons, crushing ...
+
+2. Score: 0.5780
+Source: Safety Committee Handout 1 Machine Guarding.pdf (Page 2)        
+Text: Methods of Safegaurding  There are ﬁve (5) general types of  machine safeguards that can be used  to protect workers and personnel in the immediate vicinity of machinery.  1. Guards – these are physical barriers that prevent contact. They can be ﬁ  xed, interlocked, adjustable, or self-adjus Ɵng. 2....
+
+3. Score: 0.5288
+Source: osha3170.pdf (Page 18)
+Text: Figure 17 Power Press with a Gate Secondary Safeguarding Methods   Other safeguarding methods, such as those described in the Performance Criteria for Safeguarding (ANSI B11.19-2003), may also provide employees withsome protection from machine hazards. Detectionsafeguarding devices, awareness device...
+
+4. Score: 0.4598
+Source: oem-sp123_-en-p.pdf (Page 13)
+Text: PART A  Categories of machinery or related products to which a procedure referred to in   Article 25(2) shall be applied:  1. Removable mechanical transmission devices including their guards.  2. Guards for removable mechanical transmission devices.  3. Vehicle servicing lifts.  4. Portable cartridg...
+
+5. Score: 0.4527
+Source: oem-sp123_-en-p.pdf (Page 14)
+Text: BIBLIOGRAPHY  •  ANNEX II  •  INDICATIVE LIST OF SAFETY COMPONENTS 1. Guards for removable mechanical transmission devices.  2. Protective devices designed to detect the presence of persons.  3.  Power-operated interlocking movable guards designed to be used as safeguards in  machinery referred to i...
+
+============================================================
+
+Enter your question: How are risks assessed in machinery regulation?
+
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.3883
+Source: Machine-Safety-Brochure-Guide.pdf (Page 10)
+Text: 18 19Identify the limits of the machinery That is, just what is being assessed? What are the speeds/loads/substances etc that  might be involved? For example how many bottles is the extruder blow moulding per hour, and how much material is being processed at what temperature? Remember to include for...
+
+2. Score: 0.3744
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 6)
+Text: Foreword Figure 1: Machine safety inspection Safe machines increase legal certainty for the manufacturer and user. Machine operators expect to be offered only s afe machinery or devices. This expectation exists worldwide. There are also regulations on the protection of operators of machinery worldwi...
+
+3. Score: 0.3534
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 45)
+Text: The risk assessment and risk reduction shall include hazards that might arise during the lifecycle of the  machinery or related product that are foreseeable at the time of placing the machinery or related product on  the market as an intended evolution of its fully or partially self-evolving behavio...
+
+4. Score: 0.3394
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 46)
+Text: (iii) inform users of the residual risks due to any shortcomings of the protective measures adopted,  indicate whether any particular training is required and specify any need to provide personal  protective equipment.   (c) When designing and constructing machinery or a related product and when dra...
+
+5. Score: 0.3329
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 12)
+Text: (b) safety components;   (c) lifting accessories;   (d) chains, ropes and webbing;   (e) removable mechanical transmission devices.   This Regulation also applies to partly completed machinery.   For the purposes of this Regulation, machinery, the related products listed in the first subparagraph an...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.5428
+Source: Machine-Safety-Brochure-Guide.pdf (Page 10)
+Text: 18 19Identify the limits of the machinery That is, just what is being assessed? What are the speeds/loads/substances etc that  might be involved? For example how many bottles is the extruder blow moulding per hour, and how much material is being processed at what temperature? Remember to include for...
+
+2. Score: 0.5247
+Source: special_information_guide_for_safe_machinery_en_im0014678.pdf (Page 6)
+Text: Foreword Figure 1: Machine safety inspection Safe machines increase legal certainty for the manufacturer and user. Machine operators expect to be offered only s afe machinery or devices. This expectation exists worldwide. There are also regulations on the protection of operators of machinery worldwi...
+
+3. Score: 0.5148
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 45)
+Text: The risk assessment and risk reduction shall include hazards that might arise during the lifecycle of the  machinery or related product that are foreseeable at the time of placing the machinery or related product on  the market as an intended evolution of its fully or partially self-evolving behavio...
+
+4. Score: 0.5010
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 46)
+Text: (iii) inform users of the residual risks due to any shortcomings of the protective measures adopted,  indicate whether any particular training is required and specify any need to provide personal  protective equipment.   (c) When designing and constructing machinery or a related product and when dra...
+
+5. Score: 0.4995
+Source: CELEX_32023R1230_EN_TXT.pdf (Page 12)
+Text: (b) safety components;   (c) lifting accessories;   (d) chains, ropes and webbing;   (e) removable mechanical transmission devices.   This Regulation also applies to partly completed machinery.   For the purposes of this Regulation, machinery, the related products listed in the first subparagraph an...
+
+============================================================
+Q8. "What is the difference between SIL and PL?"
+
+
+-- BEFORE (Similarity Search) --
+
+1. Score: 0.2062
+Source: safebk-rm002_-en-p.pdf (Page 66)
+Text: 65MACHINERY SAFE BOOK 5 Safety Related Control Systems & Functional Safety A SIL applies to a safety function. The subsystems that make up the system that  implements the safety function must have an appropriate SIL capability. This is sometimes referred to as the SIL Claim Limit (SIL CL). A full an...
+
+2. Score: 0.0050
+Source: Machine-Safety-Brochure-Guide.pdf (Page 25)
+Text: 48 49Step 5 - Design the diagnostic function The SIL achieved by the sub-systems depends not only on the components, but also  on the architecture selected. For this example, we will choose architectures B for the contactor outputs and D for the limit switch (See Annex 1 of this Guide for explanatio...
+
+3. Score: -0.0062
+Source: uk-mkg-practical-guide-en-GB-A4.pdf (Page 17)
+Text: Assess the Risks   Allocate the Safety measures   Design Architecture   Verify/Validate that the requirements have been met Both standards have a recommended method to help  establish the amount of risk reduction that is required from each safety function, although the methods are quite different th...
+
+4. Score: -0.0189
+Source: eaton-safety-manual-pu05907001z-en-us.pdf (Page 146)
+Text: 144 12/22 PU05907001Z-ENThe way to a safe machine Steps to SIL safety integrity level according to EN IEC 62061 Result Both subsystems TS1 and TS3 comply with the highest safety integrity  level SIL 3. The SIL claim limit SIL CL = 3 is determined from the comparison of the  SIL results for SS1 and S...
+
+5. Score: -0.0248
+Source: eaton-safety-manual-pu05907001z-en-us.pdf (Page 155)
+Text: 153 12/22 PU05907001Z-ENShort-circuit current (IEC 60204-1) Overcurrent resulting from a short-circuit due to a fault or an incorrect connection in an electrical circuit (IEV 441-11-07). SIL CL – SIL claim limit (EN IEC 62601) SIL claim limit (for a subsystem) SIL CL Maximum SIL that can be claimed ...
+
+
+-- AFTER (Reranked) --
+
+1. Score: 0.4226
+Source: safebk-rm002_-en-p.pdf (Page 66)
+Text: 65MACHINERY SAFE BOOK 5 Safety Related Control Systems & Functional Safety A SIL applies to a safety function. The subsystems that make up the system that  implements the safety function must have an appropriate SIL capability. This is sometimes referred to as the SIL Claim Limit (SIL CL). A full an...
+
+2. Score: 0.2714
+Source: Machine-Safety-Brochure-Guide.pdf (Page 25)
+Text: 48 49Step 5 - Design the diagnostic function The SIL achieved by the sub-systems depends not only on the components, but also  on the architecture selected. For this example, we will choose architectures B for the contactor outputs and D for the limit switch (See Annex 1 of this Guide for explanatio...
+
+3. Score: 0.2694
+Source: uk-mkg-practical-guide-en-GB-A4.pdf (Page 17)
+Text: Assess the Risks   Allocate the Safety measures   Design Architecture   Verify/Validate that the requirements have been met Both standards have a recommended method to help  establish the amount of risk reduction that is required from each safety function, although the methods are quite different th...
+
+4. Score: 0.2566
+Source: eaton-safety-manual-pu05907001z-en-us.pdf (Page 155)
+Text: 153 12/22 PU05907001Z-ENShort-circuit current (IEC 60204-1) Overcurrent resulting from a short-circuit due to a fault or an incorrect connection in an electrical circuit (IEV 441-11-07). SIL CL – SIL claim limit (EN IEC 62601) SIL claim limit (for a subsystem) SIL CL Maximum SIL that can be claimed ...
+
+5. Score: 0.2560
+Source: eaton-safety-manual-pu05907001z-en-us.pdf (Page 146)
+Text: 144 12/22 PU05907001Z-ENThe way to a safe machine Steps to SIL safety integrity level according to EN IEC 62061 Result Both subsystems TS1 and TS3 comply with the highest safety integrity  level SIL 3. The SIL claim limit SIL CL = 3 is determined from the comparison of the  SIL results for SS1 and S...
+
+============================================================
